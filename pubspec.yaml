@@ -1,0 +1,8 @@
+name: my_lib
+
+version: 0.1.0
+
+dev_dependencies:
+  test: any
+  quark: any
+
